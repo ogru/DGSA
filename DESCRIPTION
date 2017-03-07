@@ -1,0 +1,22 @@
+Package: DGSA
+Type: Package
+Title: The package computes parameter sensitivities with DGSA method (Fenwick et al)
+Version: 1.1
+Date: 2017-3-6
+Author: Ogy Grujic ogyg@stanford.edu
+Maintainer: Who to complain to <ogyg@stanford.edu>
+Description: The package implements the DGSA method that was originally
+             developed by Fenwick and Scheidt in 2012.
+             The Code in this package is closely following the original code by
+             C. Scheidt that is publically available on github.com/SCRF_public/DGSA
+License: GPL2
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Depends:
+  ggplot2,
+  corrplot,
+  reshape2
+Imports:
+  ggplot2,
+  plyr,
+  reshape2,
