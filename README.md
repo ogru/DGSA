@@ -27,7 +27,7 @@ First you will need to make sure that you have `devtools` installed, then you ca
 with the following command:
 
 ```R
-devtools::install_github("SCRFMembers/DGSA")
+devtools::install_github("ogru/DGSA")
 ```
 
 After that you can proceed to load the routines in the usual way with `library(DGSA)`.
