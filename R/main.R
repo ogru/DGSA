@@ -9,7 +9,7 @@
 #' @details This code implements the original DGSA code by Celine Scheidt.
 #' @param .interactions - boolean, specifying whether to compute interactions (default = FALSE)
 #'
-#' @author Ogy Grujic (ogyg@stanford.edu)
+#' @author Ogy Grujic (ogyg@stanford.edu or ognjengr@gmail.com)
 #'
 #' @export
 #'
@@ -125,7 +125,7 @@ dgsa <- function(.clusters, .X, .normalize = TRUE, .nBoot = 100,
 #' @details  It simply computes the mean of the sensitivity matrix and passess it to
 #'           corrPlot to visualize both interactions and main effects.
 #'
-#' @author  Ogy Grujic (\email{ogyg@stanford.edu})
+#' @author  Ogy Grujic (\email{ogyg@stanford.edu}  or ognjengr@gmail.com)
 #'
 #' @export
 #'
@@ -158,7 +158,7 @@ plotMatrixDGSA <- function(.dgsa, .hypothesis = TRUE, .method='circle', ...){
 #'
 #' @details This code uses ggplot for plotting it will throw out a very basic plot
 #'
-#' @author  Ogy Grujic (\email{ogyg@stanford.edu})
+#' @author  Ogy Grujic (\email{ogyg@stanford.edu}  or ognjengr@gmail.com)
 #'
 #' @export
 #'
@@ -217,7 +217,7 @@ if(.ggReturn){
 #'
 #' @details This code uses ggplot for plotting it will throw out a very basic plot
 #'
-#' @author  Ogy Grujic (\email{ogyg@stanford.edu})
+#' @author  Ogy Grujic (\email{ogyg@stanford.edu} or ognjengr@gmail.com)
 #'
 #' @export
 #'
@@ -320,7 +320,7 @@ if(.ggReturn == "plot") {
 #' @param .cb       - Whether to plot with colour blind friendly palette (default = FALSE)
 #' @details It plots a ggplot with facet wrap of all input parameters.
 #'
-#' @author Ogy Grujic (\email{ogyg@stanford.edu})
+#' @author Ogy Grujic (\email{ogyg@stanford.edu} or ognjengr@gmail.com)
 #'
 #' @export
 plotDGSAscatter <- function(.inputs, .coords, .clusters = NULL, .ggReturn = FALSE, .cb=FALSE){
@@ -370,7 +370,7 @@ plotDGSAscatter <- function(.inputs, .coords, .clusters = NULL, .ggReturn = FALS
 #'
 #' @details It plots a ggplot with facet wrap of all input parameters.
 #'
-#' @author Ogy Grujic (\email{ogyg@stanford.edu})
+#' @author Ogy Grujic (\email{ogyg@stanford.edu} or ognjengr@gmail.com)
 #'
 #' @export
 plotDGSAconditioalScatter <- function(.X, .coords, .lineData = FALSE, .code = NULL, .time = NULL, .nBins = 3, .ggReturn = FALSE, .theme = NULL){
@@ -532,7 +532,7 @@ plotDGSAconditioalScatter <- function(.X, .coords, .lineData = FALSE, .code = NU
 #' @param .lB    - Lower bound if other than minimum
 #' @param .uB    - Upper bound if other than maximum
 #'
-#' @author Ogy Grujic (\email{ogyg@stanford.edu})
+#' @author Ogy Grujic (\email{ogyg@stanford.edu} or ognjengr@gmail.com)
 #'
 scaleInp <- function(.Input, .lB = NULL, .uB = NULL){
 
