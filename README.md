@@ -46,7 +46,7 @@ If you prefer to work with MATLAB, you can find the original MATLAB implementati
 https://github.com/scheidtc/dGSA. However, without the matrix plot for visualization of
 all sensitivities/importances.
 
-# Citation
+## Citation
 
 If you find this sofware useful please consider citing it in your publications. You may use the following bibtex type citation entry:
 ```
