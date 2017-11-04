@@ -49,10 +49,10 @@ all sensitivities/importances.
 # Citation
 
 If you find this sofware useful please consider citing it in your publications. You may use the following bibtex type citation entry:
-@Manual{DGSA_2016,
+`@Manual{DGSA_2016,
   title  = {DGSA, an \proglang{R} package},
   author = {Ognjen Grujic},
   year   = {2016},
   note   = {\proglang{R}~package version~1.0},
   url    = {https://github.com/ogru/DGSA},
-}
+}`
