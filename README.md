@@ -1,6 +1,6 @@
 # DGSA
 
-This package implements distance based generalized sensitivity analysis method (DGSA).
+This package implements the distance based generalized sensitivity analysis method (DGSA).
 For more information about the method please read:
 
 >Fenwick, Darryl, Céline Scheidt, and Jef Caers. "Quantifying asymmetric parameter
