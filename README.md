@@ -34,11 +34,7 @@ After that you can proceed to load the routines in the usual way with `library(D
 
 ## Examples of usage
 
-To view some of the package capabilities go to the following link:
-
-https://rawgit.com/ogru/DGSA/master/vignette/Intro_to_DGSA.html
-
-It will view the vignette without downloading the package/file.
+To view some of the package capabilities go to the [link](https://rawgit.com/ogru/DGSA/master/vignette/Intro_to_DGSA.html)
 
 ## Related software
 
@@ -48,7 +44,7 @@ all sensitivities/importances.
 
 ## Citation
 
-If you find this sofware useful please consider citing it in your publications. You may use the following bibtex type citation entry:
+If you find this sofware useful please consider citing it in your publications. You may use the following Bibtex entry:
 ```
 @Manual{DGSA_2016,
   title  = {DGSA, an \proglang{R} package},
