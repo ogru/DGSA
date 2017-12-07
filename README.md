@@ -1,7 +1,7 @@
 # DGSA
 
 This package implements the distance based generalized sensitivity analysis method (DGSA).
-For more information about the method please read:
+For more information about the method please consider:
 
 >Fenwick, Darryl, Céline Scheidt, and Jef Caers. "Quantifying asymmetric parameter
 interactions in sensitivity analysis: Application to reservoir modeling." Mathematical
@@ -34,7 +34,7 @@ After that you can proceed to load the routines in the usual way with `library(D
 
 ## Examples of usage
 
-To view some of the package capabilities go to the [link](https://rawgit.com/ogru/DGSA/master/vignette/Intro_to_DGSA.html)
+To view some of the package capabilities go to the [link](https://rawgit.com/ogru/DGSA/master/vignette/Intro_to_DGSA.html).
 
 ## Related software
 
