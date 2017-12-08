@@ -23,18 +23,18 @@ if you plan on adding/modifying features.
 
 ## Installing from GitHub
 
-First you will need to make sure that you have `devtools` installed, then you can install
+First, you will need to make sure that you have `devtools` installed, then you can install
 with the following command:
 
 ```R
 devtools::install_github("ogru/DGSA")
 ```
 
-After that you can proceed to load the routines in the usual way with `library(DGSA)`.
+After that, you can proceed to load the routines in the usual way with `library(DGSA)`.
 
 ## Examples of usage
 
-To view some of the package capabilities go to the [link](https://rawgit.com/ogru/DGSA/master/vignette/Intro_to_DGSA.html).
+To view some of the package capabilities go to the following [link](https://rawgit.com/ogru/DGSA/master/vignette/Intro_to_DGSA.html).
 
 ## Related software
 
